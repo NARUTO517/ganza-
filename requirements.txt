@@ -1,8 +1,4 @@
 asyncio
 datetime
-os
 random
-re
-shutil
 telethon
-uu
