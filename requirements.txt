@@ -8,7 +8,7 @@ shutil
 uu
 KeyboardButtonUrl
 KeyboardButton
-Reply InlineMarkup
+ReplyInlineMarkup
 TelegramClient
 events
 functions
@@ -20,9 +20,9 @@ datetime
 random
 timedelta
 ApiIdInvalidError
-Phone Number Invalid Error
+PhoneNumberInvalid Error
 PhoneCodeInvalid Error
 PhoneCodeExpiredError
-SessionPassword NeededError
+SessionPasswordNeededError
 PasswordHashInvalidError
 telebot
