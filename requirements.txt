@@ -1,14 +1,14 @@
 asyncio
 datetime
-telethon
-os
+telethonos
 StringSession
 re
+json
 shutil
 uu
 KeyboardButtonUrl
 KeyboardButton
-ReplyInlineMarkup
+Reply InlineMarkup
 TelegramClient
 events
 functions
@@ -19,10 +19,4 @@ time
 datetime
 random
 timedelta
-ApiIdInvalidError
-PhoneNumberInvalidError
-PhoneCodeInvalidError
-PhoneCodeExpiredError
-SessionPasswordNeededError
-PasswordHashInvalidError
 telebot
