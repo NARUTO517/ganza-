@@ -1,6 +1,7 @@
 asyncio
 datetime
-telethonos
+telethon
+os
 StringSession
 re
 json
