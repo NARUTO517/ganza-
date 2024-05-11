@@ -20,8 +20,8 @@ datetime
 random
 timedelta
 ApiIdInvalidError
-PhoneNumberInvalid Error
-PhoneCodeInvalid Error
+PhoneNumberInvalidError
+PhoneCodeInvalidError
 PhoneCodeExpiredError
 SessionPasswordNeededError
 PasswordHashInvalidError
