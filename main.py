@@ -54,7 +54,7 @@ API_HASH = "2da6c36ac376d74f8f30bab44feb5b04"
 admin =['5089141183','5705487207']
 
 # Replace with your bot token
-token = "6383532072:AAGkOq2B-0gcVwwv8OI6l_N2v13SsaxqqD0"
+token = "7190142727:AAH3PfuV0-EiK5nJY7qHJ-TJIQyfoxdzvek"
 client = TelegramClient('BotSession', API_ID, API_HASH).start(bot_token=token)
 bot = client
 
